@@ -1,0 +1,8 @@
+Subject: CMake 3.17.3 available for download
+
+We are pleased to announce that CMake 3.17.3 is now available for download.
+
+Please use the latest release from our download page:
+  https://cmake.org/download/
+
+Thanks for your support!

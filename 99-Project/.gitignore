@@ -1,0 +1,9 @@
+.DS_Store
+.DS_Store/
+enron/
+__pycache__/
+*.py[co]
+ham.csv
+spam.csv
+features.txt
+model.hd5/

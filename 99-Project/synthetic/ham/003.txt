@@ -1,0 +1,12 @@
+Subject: License for generated files
+
+Hello.
+
+Today I added generated file to QCA repo. This commit
+https://invent.kde.org/libraries/qca/-/commit/cf929ce541b48e36a54691a37b31211d17334bf7.
+And got such email mesage: The files marked with a * at the end have a
+non valid license. Please read:
+https://community.kde.org/Policies/Licensing_Policy and use the headers
+which are listed at that page.
+
+So which header/license I should use in my case?

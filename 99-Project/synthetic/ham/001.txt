@@ -1,0 +1,10 @@
+Subject: KIO FUSE 4.95.0 (RC 1) released
+
+Hi,
+
+I'm proud to announce the availability of the (hopefully only) release candidate
+of KIO FUSE!
+
+If you don't know what KIO FUSE is about, you can read more
+on feverfew's blog at https://feverfew.home.blog/2019/05/16/kiofuse-gsoc-2019/
+and the followup posts about development progress.

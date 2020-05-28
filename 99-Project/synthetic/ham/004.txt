@@ -1,0 +1,9 @@
+Subject: Re: GSoC Mentors - How are things going?
+
+Hi!
+
+Everything is going well here (Qt Quick Controls calendar). The student has
+been looking at the project and we've been in contact. We'll have a call later
+this week to talk more details and next steps.
+
+Regards

@@ -1,0 +1,8 @@
+Subject: Recent breakage in kwallet
+
+Hi all,
+Recently, the package of KWallet framework for neon (devel unstable,
+package built out of current master state) seems to be broken: kwallet
+now can't open anymore wallets previously created (it works if the
+local kwallet data is deleted and recreated)
+the weird thing is that it seems that with a manual build it works instead.
