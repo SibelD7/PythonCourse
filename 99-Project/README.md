@@ -69,6 +69,6 @@ Testing an email is simple and fast. To test an email, use the following code:
     aMailVector = oDP.buildAdhocMailVector(sMail)
 
     oLRP = LogisticRegressionPredictor()
-    oLRP.predictMail("model.hd5", sMail)
+    oLRP.predictMail("model.hd5", aMailVector)
 
 The return is in the form of [spamminess, hamminess]
